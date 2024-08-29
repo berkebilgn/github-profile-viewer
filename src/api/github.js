@@ -1,3 +1,5 @@
+// src/api/github.js
+
 import axios from "axios";
 
 const getUserProfile = async (username) => {
